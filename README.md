@@ -1,7 +1,7 @@
 # Hunter Sills
 ### Data Analyst
 
-Seasoned data and operations professional shifting my focus to data analysis and visualization. This portfolio is a demonstration of my proficiency in SQL, Tableau, Python, and an analytic mindset.
+Seasoned data and operations professional shifting my focus to data analysis and visualization. This portfolio is a demonstration of my proficiency in SQL, Power BI, Tableau, and Python.
 
 I'm always happy to talk shop or discuss opportunities to collaborate -- feel free to drop me a line. 
 
