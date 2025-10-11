@@ -1,4 +1,4 @@
-# Hunter Sills
+# Hunter Sills<br>
 ### Data Analyst
 
 Experienced data and operations professional transitioning to data analysis and visualization. This portfolio demonstrates my proficiency in SQL, Power BI, Tableau, and Python.
