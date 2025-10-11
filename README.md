@@ -1,6 +1,11 @@
-# Hello, I'm Hunter Sills.
+# Hunter Sills
+### Data Analyst
 
-I'm a data analyst focusing on SQL, Tableau, and Python. Here are some of my projects:
+Seasoned data and operations professional shifting my focus to data analysis and visualization. This portfolio is a demonstration of my proficiency in SQL, Tableau, Python, and an analytic mindset.
+
+I'm always happy to talk shop or discuss opportunities to collaborate -- feel free to drop me a line. 
+
+Here are some of my projects:
 
 ### My Projects
 
@@ -11,6 +16,6 @@ I'm a data analyst focusing on SQL, Tableau, and Python. Here are some of my pro
 
 ---
 
-# Contact
+### Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hunter-sills/) or email me at hunter.sills@protonmail.com.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hunter-sills/) or email me at hunter.sills@protonmail.com.
