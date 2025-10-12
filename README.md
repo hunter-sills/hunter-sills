@@ -21,4 +21,4 @@ Python with Numpy, Pandas, and Matplotlib
 *   [adventureworks_sales_dashboard](https://github.com/hunter-sills/adventureworks_sales_dashboard)
     Power BI project with several dashboards analyzing various aspects of the AdventureWorks business
 *   [ecommerce_seller_analysis](https://github.com/hunter-sills/ecommerce_seller_analysis)
-    Self-led SQL analysis of the Olist dataset using PostgreSQL
+    Exploratory SQL analysis of the Olist dataset using PostgreSQL
