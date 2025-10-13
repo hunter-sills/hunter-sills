@@ -16,10 +16,16 @@ Python with Numpy, Pandas, and Matplotlib
 
 *   [census_data_exploration_map](https://github.com/hunter-sills/census_data_exploration_map)
     Advanced Tableau map of census data and variance analysis
+
+    
 *   [superstore_sales_analysis](https://github.com/hunter-sills/superstore_sales_analysis)
     Tableau dashboard and story analyzing sales and profit
+
+    
 *   [adventureworks_sales_dashboard](https://github.com/hunter-sills/adventureworks_sales_dashboard)
     Power BI project with several dashboards analyzing various aspects of the AdventureWorks business
+
+    
 *   [ecommerce_seller_analysis](https://github.com/hunter-sills/ecommerce_seller_analysis)
     Exploratory SQL analysis of the Olist dataset using PostgreSQL
 
