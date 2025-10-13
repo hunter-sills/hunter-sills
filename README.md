@@ -7,9 +7,11 @@ Currently expanding my skillset and seeking a challenging Data Analyst role. I'm
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hunter-sills/) or email me at hunter.sills@protonmail.com.
 
 
+
 ### What I’m Working on Now:
 
 Python with Numpy, Pandas, and Matplotlib
+
 
 
 ### My Projects
@@ -28,6 +30,7 @@ Python with Numpy, Pandas, and Matplotlib
     
 *   [ecommerce_seller_analysis](https://github.com/hunter-sills/ecommerce_seller_analysis)
     Exploratory SQL analysis of the Olist dataset using PostgreSQL
+
 
 
 ### Core Technologies
