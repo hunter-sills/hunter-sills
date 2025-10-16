@@ -1,6 +1,6 @@
 # Hunter Sills  |  Data Enthusiast & Analyst
 
-Data Analyst with a proven 10+ year track record in business analysis and project management. I combine strong business acumen and project leadership with demonstrable technical proficiency in SQL, Power BI, Tableau, and Python to solve business problems and ensure that insights drive action.
+Data professional with a proven 10+ year track record in business analysis and project management. I combine strong business acumen and project leadership with demonstrable technical proficiency in SQL, Power BI, Tableau, and Python to solve business problems and ensure that insights drive action.
 
 Currently expanding my skillset and seeking a challenging Data Analyst role. I'm always happy to talk shop or discuss a collaboration — feel free to drop me a line.
 
