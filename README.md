@@ -1,4 +1,4 @@
-# Hunter Sills | Data Analyst
+# Hunter Sills | Data Enthusiast & Analyst
 
 Data Analyst with a proven 10+ year track record in business analysis and project management. I combine strong business acumen and project leadership with demonstrable technical proficiency in SQL, Power BI, Tableau, and Python to solve business problems and ensure that insights drive action.
 
@@ -25,7 +25,7 @@ Python with Numpy, Pandas, and Matplotlib
 
     
 *   [adventureworks_sales_dashboard](https://github.com/hunter-sills/adventureworks_sales_dashboard)
-    Power BI project with dashboards analyzing various aspects of the AdventureWorks business
+    Power BI dashboards analyzing various aspects of the AdventureWorks business
 
     
 *   [ecommerce_seller_analysis](https://github.com/hunter-sills/ecommerce_seller_analysis)
