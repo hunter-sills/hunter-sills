@@ -1,9 +1,13 @@
-# Hunter Sills <br/>
+# Hunter Sills
 ## Business Intelligence, Project Leadership, & Data Enablement
 
-Data professional with a proven 10+ year track record in business analysis and project management. I combine strong business acumen and project leadership with demonstrable technical proficiency in SQL, Power BI, Tableau, and Python to solve business problems and ensure that insights drive action.
+Data professional with a proven 12+ year track record in Business Analysis, Project Management, and Operations. I specialize in bridging the gap between business needs and technical solutions.
 
-Currently expanding my skillset and seeking a challenging Data Analyst role. I'm always happy to talk shop or discuss a collaboration — feel free to drop me a line.
+I combine strong business acumen and project leadership with demonstrable technical proficiency in SQL, Power BI, Tableau, and Python to solve business problems and ensure that data insights drive action.
+
+Currently leveraging my deep operational experience with modern tools, and I am actively seeking challenging Hybrid Analyst, Business Intelligence, or Process Leader roles.
+
+I'm always happy to talk shop or discuss a collaboration — feel free to drop me a line.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hunter-sills/) or email me at hunter.sills@protonmail.com.
 
