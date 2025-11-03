@@ -1,4 +1,4 @@
-# Hunter Sills <br/> Business Intelligence, Project Leadership, & Data Enablement
+# Hunter Sills <br/> <br/> <span style="font-size: 60%;">Business Intelligence, Project Leadership, & Data Enablement</span>
 
 Data professional with a proven 10+ year track record in business analysis and project management. I combine strong business acumen and project leadership with demonstrable technical proficiency in SQL, Power BI, Tableau, and Python to solve business problems and ensure that insights drive action.
 
