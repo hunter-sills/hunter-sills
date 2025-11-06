@@ -13,7 +13,7 @@ I'm always happy to talk shop or discuss a collaboration — feel free to drop m
 
 ### What I’m Working on Now:
 
-*   [wwi_performance_discovery](https://github.com/hunter-sills/wwi_performance_discovery)
+*   [wwi_performance_discovery](https://github.com/hunter-sills/wwi_performance_discovery)</br>
     Python/Pandas exploratory analysis of the Wide World Importers dataset
 
 
