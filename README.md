@@ -13,8 +13,8 @@ I'm always happy to talk shop or discuss a collaboration — feel free to drop m
 
 ### What I’m Working on Now:
 
-Python with Numpy, Pandas, and Matplotlib
-
+*   [wwi_performance_discovery](https://github.com/hunter-sills/wwi_performance_discovery)
+    Python/Pandas exploratory analysis of the Wide World Importers dataset
 
 
 ### My Projects
