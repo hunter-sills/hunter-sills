@@ -7,7 +7,7 @@ I combine strong business acumen and project leadership with demonstrable techni
 
 Currently leveraging my deep operational experience with modern tools, and I am actively seeking challenging Hybrid Analyst, Business Intelligence, or Process Leader roles.
 
-I'm always happy to talk shop or discuss a collaboration — feel free to drop me a line: [LinkedIn](https://www.linkedin.com/in/hunter-sills/) | hunter.sills@protonmail.com
+I'm always happy to talk shop or discuss a collaboration — feel free to drop me a line: [LinkedIn](https://www.linkedin.com/in/hunter-sills/) | [email](hunter.sills@protonmail.com)
 
 
 
