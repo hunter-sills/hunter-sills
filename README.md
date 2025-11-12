@@ -13,7 +13,7 @@ I'm always happy to talk shop or discuss a collaboration — feel free to drop m
 
 ### What I’m Working on Now:
 
-Next project: design a mini-ETL pipeline in Python to practice modular code design and automation. Focusing on tools like Pandas and the 'requests' library to build scalable data ingestion and cleaning flows.
+Next project: Build a mini-ETL pipeline in Python to practice modular code design and automation. I'll focus on tools like Pandas and the 'requests' library to build scalable data ingestion and cleaning flows.
 
 ---
 
