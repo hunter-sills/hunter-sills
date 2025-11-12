@@ -19,7 +19,7 @@ Next project: design a mini-ETL pipeline in Python to practice modular code desi
 
 ### My Projects
 
-⭐  [wwi_performance_discovery](https://github.com/hunter-sills/wwi_performance_discovery)</br>
+* &nbsp; ⭐ [wwi_performance_discovery](https://github.com/hunter-sills/wwi_performance_discovery)</br>
     Python/Pandas exploratory analysis of the Wide World Importers dataset
 
 *   [ecommerce_seller_analysis](https://github.com/hunter-sills/ecommerce_seller_analysis)</br>
