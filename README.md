@@ -19,21 +19,17 @@ I'm always happy to talk shop or discuss a collaboration — feel free to drop m
 
 ### My Projects
 
-*   [census_data_exploration_map](https://github.com/hunter-sills/census_data_exploration_map)</br>
-    Advanced Tableau map of census data and variance analysis
-
-    
-*   [superstore_sales_analysis](https://github.com/hunter-sills/superstore_sales_analysis)</br>
-    Tableau dashboard and story analyzing sales and profit
-
-    
-*   [adventureworks_sales_dashboard](https://github.com/hunter-sills/adventureworks_sales_dashboard)</br>
-    Power BI dashboards analyzing various aspects of the AdventureWorks business
-
-    
 *   [ecommerce_seller_analysis](https://github.com/hunter-sills/ecommerce_seller_analysis)</br>
     Exploratory SQL analysis of the Olist dataset using PostgreSQL
 
+*   [census_data_exploration_map](https://github.com/hunter-sills/census_data_exploration_map)</br>
+    Advanced Tableau map of census data and variance analysis
+    
+*   [superstore_sales_analysis](https://github.com/hunter-sills/superstore_sales_analysis)</br>
+    Tableau dashboard and story analyzing sales and profit
+    
+*   [adventureworks_sales_dashboard](https://github.com/hunter-sills/adventureworks_sales_dashboard)</br>
+    Power BI dashboards analyzing various aspects of the AdventureWorks business
 
 
 ### Core Technologies
