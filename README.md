@@ -1,11 +1,11 @@
 # Hunter Sills
-## Business Intelligence, Project Leadership, & Data Enablement
+## Data Solutions Builder, Operational Leadership, & Analytical Execution
 
-Data professional with a proven 12+ year track record in Business Analysis, Project Management, and Operations. I specialize in bridging the gap between business needs and technical solutions.
+Data professional with a 12+ year track record in Business Analysis, Project Management, and Operations. I specialize in bridging the gap between business needs and constructing reliable data solutions.
 
-I combine strong business acumen and project leadership with demonstrable technical proficiency in SQL, Power BI, Tableau, and Python to solve business problems and ensure that data insights drive action.
+I leverage strong business acumen and project leadership with demonstrable technical proficiency in SQL, Python, Pandas, Tableau, and Power BI. My focus is on building and implementing robust data processes that solve complex business problems and drive organizational action.
 
-Currently leveraging my deep operational experience with modern tools, and I am actively seeking challenging Hybrid Analyst, Business Intelligence, or Process Leader roles.
+Currently applying deep operational experience with modern tools, and actively seeking challenging Data Solutions, Hybrid Analyst, or foundational Data Engineering roles.
 
 I'm always happy to talk shop or discuss a collaboration — feel free to drop me a line: [LinkedIn](https://www.linkedin.com/in/hunter-sills/) | [email](mailto:hunter.sills@protonmail.com)
 
@@ -13,11 +13,12 @@ I'm always happy to talk shop or discuss a collaboration — feel free to drop m
 
 ### What I’m Working on Now:
 
-*   [wwi_performance_discovery](https://github.com/hunter-sills/wwi_performance_discovery)</br>
-    Python/Pandas exploratory analysis of the Wide World Importers dataset
-
+Next project: design a mini-ETL pipeline in Python to practice modular code design and automation. Focusing on tools like Pandas and the 'requests' library to build scalable data ingestion and cleaning flows.
 
 ### My Projects
+
+*   [wwi_performance_discovery](https://github.com/hunter-sills/wwi_performance_discovery)</br>
+    Python/Pandas exploratory analysis of the Wide World Importers dataset
 
 *   [ecommerce_seller_analysis](https://github.com/hunter-sills/ecommerce_seller_analysis)</br>
     Exploratory SQL analysis of the Olist dataset using PostgreSQL
