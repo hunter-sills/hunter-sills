@@ -1,6 +1,8 @@
 # Hunter Sills
 ## Data Solutions Builder, Operational Leadership, & Analytical Execution
 
+---
+
 Data professional with a 12+ year track record in Business Analysis, Project Management, and Operations. I specialize in bridging the gap between business needs and constructing reliable data solutions.
 
 I leverage strong business acumen and project leadership with demonstrable technical proficiency in SQL, Python, Pandas, Tableau, and Power BI. My focus is on building and implementing robust data processes that solve complex business problems and drive organizational action.
@@ -9,11 +11,13 @@ Currently applying deep operational experience with modern tools, and actively s
 
 I'm always happy to talk shop or discuss a collaboration — feel free to drop me a line: [LinkedIn](https://www.linkedin.com/in/hunter-sills/) | [email](mailto:hunter.sills@protonmail.com)
 
-
+---
 
 ### What I’m Working on Now:
 
 Next project: design a mini-ETL pipeline in Python to practice modular code design and automation. Focusing on tools like Pandas and the 'requests' library to build scalable data ingestion and cleaning flows.
+
+---
 
 ### My Projects
 
