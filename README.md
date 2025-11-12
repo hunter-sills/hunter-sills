@@ -1,8 +1,6 @@
 # Hunter Sills
 ## Data Solutions Builder, Operational Leadership, & Analytical Execution
 
----
-
 Data professional with a 12+ year track record in Business Analysis, Project Management, and Operations. I specialize in bridging the gap between business needs and constructing reliable data solutions.
 
 I leverage strong business acumen and project leadership with demonstrable technical proficiency in SQL, Python, Pandas, Tableau, and Power BI. My focus is on building and implementing robust data processes that solve complex business problems and drive organizational action.
